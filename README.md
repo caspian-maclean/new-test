@@ -1,4 +1,5 @@
 example readme
 ==============
 
-here is stuff
+Here is stuff.
+Then there is some more.
